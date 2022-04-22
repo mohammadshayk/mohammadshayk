@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammadshayk
 - 👀 I’m interested in JavaScript, python, C#
-- 🌱 I’m currently learning Angular JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on twitter.com/mohammadshayk
 - 📫 How to reach me mohammadshaikh151@gmail.com
 
